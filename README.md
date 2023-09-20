@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naufalalief
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Fullstack Web Development
+- 👀 I’m interested in Javascript
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @afalupanama
 
