@@ -14,7 +14,6 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">✨Work in progress✨</h3>
 
-- 🗂 Golang APIs
 - 💻 Furnivul Web App
 
 <h3 align="left">Familiar with:</h3>
