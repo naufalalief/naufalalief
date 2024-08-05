@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @afalupanama
-- 💻 Or visit my personal website <a href="https://personalweb-naufalalief.netlify.app/"  target="_blank">here</a>
+- 💻 Or visit my personal website <a href="https://personalweb-naufalalief.netlify.app/"  target="_blank">here</a> (last updated august 2023)
 
 <!---
 naufalalief/naufalalief is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
