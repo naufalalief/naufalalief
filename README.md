@@ -1,8 +1,7 @@
 <h2 align="center">✨ Stats ✨</h2>
 
-###
 
-<br clear="both">
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naufalalief&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="100" alt="stats graph"  />
@@ -11,7 +10,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=naufalalief&radius=16&theme=tokyo-night&area=true&order=5&hide_border=false" height="310" alt="activity-graph graph"  />
 </div>
 
-###
 
 <h2 align="center">✨ My Skill Set ✨</h2>
 <table style="border:0;"><tr><td valign="top" width="33%">
@@ -63,11 +61,9 @@
 
 </td></tr></table>
 
-###
 
 <h2 align="center">✨ Contact ✨</h2>
 
-###
 
 <div align="center">
   <a href="https://www.instagram.com/afalupanama" target="_blank">
@@ -81,4 +77,3 @@
   </a>
 </div>
 
-###
