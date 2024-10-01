@@ -5,6 +5,7 @@
 
 <div align="center">
  ![naufalalief's Stats](https://github-readme-stats.vercel.app/api?username=naufalalief&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=naufalalief&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="200" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=naufalalief&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naufalalief&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="200" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=naufalalief&radius=16&theme=tokyo-night&area=true&order=5&hide_border=false" height="310" alt="activity-graph graph"  />
